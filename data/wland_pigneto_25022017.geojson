@@ -1,0 +1,638 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2017-02-25T16:04:03Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/1695938318",
+      "properties": {
+        "@id": "node/1695938318",
+        "addr:city": "Roma",
+        "addr:housenumber": "43",
+        "addr:postcode": "00176",
+        "addr:street": "Via Giovanni De Agostini",
+        "amenity": "cafe",
+        "cuisine": "sandwich",
+        "description": "musica dischi caffe",
+        "internet_access": "wlan",
+        "name": "Yeah",
+        "opening_hours": "Mo-Su 07:30-02:00",
+        "phone": "+39 06 64801456",
+        "website": "https://www.yeahpigneto.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5301894,
+          41.8864684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1759856906",
+      "properties": {
+        "@id": "node/1759856906",
+        "addr:housenumber": "40",
+        "addr:postcode": "00176",
+        "addr:street": "Via Ascoli Piceno",
+        "amenity": "fast_food",
+        "description": "Bistrot and vegetarian laboratory of biological recipes and tropical fruits",
+        "email": "vitaminas.roma@yahoo.it",
+        "internet_access": "wlan",
+        "name": "Vitaminas24",
+        "opening_hours": "Tu-Sa 12:00-24:00; Su-Mo 12:00-16:00",
+        "website": "http://vitaminas24.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5258793,
+          41.8896733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1768569008",
+      "properties": {
+        "@id": "node/1768569008",
+        "addr:housenumber": "68",
+        "addr:street": "Via Fanfulla da Lodi",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "Necci",
+        "opening_hours": "Mo-Su 08:00-02:00",
+        "operator": "Fanfulla S.r.l.",
+        "outdoor": "yes",
+        "outdoor_seating": "yes",
+        "phone": "+39 06 97601552",
+        "ref:vatin": "IT09056241004",
+        "start_date": "1924",
+        "website": "http://www.necci1924.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5302493,
+          41.8890945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1793395338",
+      "properties": {
+        "@id": "node/1793395338",
+        "addr:city": "Roma",
+        "addr:country": "IT",
+        "addr:housenumber": "4",
+        "addr:street": "Via Perugia",
+        "amenity": "library",
+        "internet_access": "wlan",
+        "name": "Lo Yeti libreria-caffé",
+        "opening_hours": "Mo-Su 10:00-01:00",
+        "phone": "+39 06 7025633",
+        "website": "http://www.loyeti.org/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5252192,
+          41.8899108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2459494684",
+      "properties": {
+        "@id": "node/2459494684",
+        "addr:housenumber": "106",
+        "addr:postcode": "00176",
+        "addr:street": "Via del Pigneto",
+        "amenity": "cafe",
+        "cuisine": "italian",
+        "internet_access": "wlan",
+        "name": "Bottiglieria Pigneto",
+        "opening_hours": "Mo-Su 08:00-01:30",
+        "outdoor": "yes",
+        "website": "https://www.facebook.com/bottiglieria.pigneto/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5298837,
+          41.8878863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2515288856",
+      "properties": {
+        "@id": "node/2515288856",
+        "addr:city": "Roma",
+        "addr:country": "IT",
+        "addr:housenumber": "84",
+        "addr:street": "piazzale del Verano",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "internet_access": "yes",
+        "name": "La Pantera Rosa",
+        "phone": "+39 06 4456391"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5178456,
+          41.9001185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2665121471",
+      "properties": {
+        "@id": "node/2665121471",
+        "addr:city": "Roma",
+        "addr:housenumber": "22",
+        "addr:postcode": "00176",
+        "addr:street": "Via del Pigneto",
+        "amenity": "library",
+        "internet_access": "yes",
+        "name": "Biblioteca Goffredo Mameli",
+        "opening_hours": "Tu-Fr 09:00-19:00; Sa 09:00-13:00; Mo 15:00-19:15",
+        "operator": "Comune di Roma",
+        "phone": "+39 06 45460541",
+        "website": "http://www.comune.roma.it/wps/portal/pcr?jppagecode=biblioteca_pigneto.wp",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5242282,
+          41.8889121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3431343281",
+      "properties": {
+        "@id": "node/3431343281",
+        "addr:city": "Roma",
+        "addr:housenumber": "227",
+        "addr:postcode": "00177",
+        "addr:street": "Via di Acqua Bullicante",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "Lecrì Caffè"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5431171,
+          41.8863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4302027889",
+      "properties": {
+        "@id": "node/4302027889",
+        "addr:housenumber": "54",
+        "addr:postcode": "00176",
+        "addr:street": "Via Ettore Giovenale",
+        "amenity": "restaurant",
+        "cuisine": "burger;fish;diner;cake;deli;coffee_shop;italian;international",
+        "email": "info@nacosetta.com",
+        "internet_access": "wlan",
+        "name": "'na cosetta",
+        "opening_hours": "Mo-Su 19:00-04:00",
+        "operator": "Chiara, Angelo, Luca, Stefano",
+        "phone": "+39 06 45598326",
+        "website": "http://www.facebook.com/nacosetta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5316565,
+          41.8896777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4419393051",
+      "properties": {
+        "@id": "node/4419393051",
+        "addr:city": "Roma",
+        "addr:country": "IT",
+        "addr:housenumber": "172-174",
+        "addr:postcode": "00176",
+        "addr:street": "Via Gentile da Mogliano",
+        "amenity": "pub",
+        "description": "Wine/Beer/Coffee",
+        "internet_access": "wlan",
+        "name": "Caffè Sospeso",
+        "opening_hours": "Sa-Mo 15:00-01:00; tu-fr 11:00-01:00",
+        "outdoor_seating": "no",
+        "phone": "+39 06 83760933",
+        "pub:type": "wine_bar",
+        "website": "https://www.facebook.com/Caff%C3%A8-Sospeso-430526853806720/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5339207,
+          41.8887294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4644258945",
+      "properties": {
+        "@id": "node/4644258945",
+        "addr:city": "Roma",
+        "addr:housenumber": "16",
+        "addr:postcode": "00176",
+        "addr:street": "Via Ettore Giovenale",
+        "amenity": "pub",
+        "cuisine": "regional",
+        "description:it": "Bistro/Latteria/Gastronomia",
+        "internet_access": "wlan",
+        "name": "Zazie nel metro",
+        "opening_hours": "Mo-Su 08:00-02:00",
+        "operator": "Zazie Soc.Coop arl",
+        "outdoor_seating": "no",
+        "ref:vatin": "IT13909521000",
+        "website": "https://www.facebook.com/zazienelmetropigneto/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5312858,
+          41.8912084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4659455169",
+      "properties": {
+        "@id": "node/4659455169",
+        "addr:city": "Roma",
+        "addr:housenumber": "79",
+        "addr:street": "Circonvallazione Casilina",
+        "amenity": "cafe",
+        "description:it": "bistrot/bar/gelateria/pasticceria",
+        "internet_access": "wlan",
+        "name": "Burro Cream&Coffee",
+        "opening_hours": "Mo-Sa 07:00-20:00",
+        "outdoor_seating": "no",
+        "phone": "+39 0664802060",
+        "start_date": "01/10/2015",
+        "website": "https://www.facebook.com/burrocreamandcoffee/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5278605,
+          41.8891828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4659455171",
+      "properties": {
+        "@id": "node/4659455171",
+        "addr:city": "Roma",
+        "addr:housenumber": "92",
+        "addr:postcode": "00176",
+        "addr:street": "Via Prenestina",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "Caffè Berardo",
+        "opening_hours": "Mo-Su 05:00-23:00",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5280944,
+          41.8909714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4659455173",
+      "properties": {
+        "@id": "node/4659455173",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "Caffè Dal 34",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5193596,
+          41.8912758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4659895861",
+      "properties": {
+        "@id": "node/4659895861",
+        "addr:city": "Roma",
+        "addr:housenumber": "168",
+        "addr:street": "Via Prenestina",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "cuisine_1": "international",
+        "description": "Colazione/Pranzo/Aperitivo/Cena",
+        "internet_access": "wlan",
+        "name": "Gastrò Cibo E Caffè",
+        "opening_hours": "Mo-Th 07:00-23:00; Fr 17:00-23:00; Sa 07:00-23:00; Su 17:00-23:00",
+        "outdoor_seating": "no",
+        "phone": "+390686601380",
+        "website": "http://www.gastrociboecaffe.it/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5323686,
+          41.8919426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4659895867",
+      "properties": {
+        "@id": "node/4659895867",
+        "addr:city": "Roma",
+        "addr:housenumber": "88/90",
+        "addr:street": "Via Braccio da Montone",
+        "amenity": "cafe",
+        "description:it": "Colazioni/Pranzi/Aperitivi/Dopocena",
+        "internet_access": "wlan",
+        "name": "Braccio Da Montone",
+        "opening_hours": "Mo-Su 06:30-02:00",
+        "outdoor_seating": "no",
+        "website": "https://www.facebook.com/BarBraccioDaMontone/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5315377,
+          41.8892552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4659895868",
+      "properties": {
+        "@id": "node/4659895868",
+        "addr:city": "Roma",
+        "addr:housenumber": "9-10",
+        "addr:street": "Piazza Copernico",
+        "description": "Servizi di architettura, ingegneria e architettura di interni",
+        "fee": "yes",
+        "internet_access": "wlan",
+        "office": "coworking",
+        "phone": "+39 0692926056"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5326085,
+          41.8860641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4659895871",
+      "properties": {
+        "@id": "node/4659895871",
+        "addr:city": "Roma",
+        "addr:housenumber": "80",
+        "addr:street": "Via Alberto da Giussano",
+        "amenity": "ice_cream",
+        "description:it": "Gelato/Pasticceria artigianale/Altri sfizi",
+        "ice_cream:type": "ice cream shop;cup cake shop;coffee shop",
+        "internet_access": "wlan",
+        "name": "Fattori",
+        "opening_hours": "Mo-Su 07:00-21:00",
+        "outdoor_seating": "yes",
+        "website": "http://www.gelateriafattori.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5346924,
+          41.8884567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4659895872",
+      "properties": {
+        "@id": "node/4659895872",
+        "addr:city": "Roma",
+        "addr:housenumber": "2",
+        "addr:street": "Via Pausania",
+        "amenity": "fast_food",
+        "cuisine": "sandwich",
+        "description:it": "Cirioleria",
+        "internet_access": "wlan",
+        "name": "Dar Ciriola",
+        "opening_hours": "Mo-Su 07:30-01:00",
+        "outdoor": "yes",
+        "outdoor_seating": "terrace",
+        "phone": "+39 06 21702636",
+        "website": "http://www.darciriola.it/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.534658,
+          41.8868753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4660196074",
+      "properties": {
+        "@id": "node/4660196074",
+        "addr:city": "Roma",
+        "addr:housenumber": "232",
+        "addr:street": "Via Prenestina",
+        "amenity": "cafe",
+        "cuisine": "international",
+        "description": "Lounge/Restaurant/Cafeteria",
+        "internet_access": "wlan",
+        "name": "Violetta Caffè & Cucina",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "outdoor_seating": "no",
+        "website": "https://www.facebook.com/Violetta-caff%C3%A8-cucina-718317308266363/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5394641,
+          41.8922121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4660196075",
+      "properties": {
+        "@id": "node/4660196075",
+        "addr:city": "Roma",
+        "addr:housenumber": "26/27",
+        "addr:postcode": "00176",
+        "addr:street": "Piazza dei Condottieri",
+        "amenity": "restaurant",
+        "cuisine": "international",
+        "description:it": "Enoteca",
+        "internet_access": "wlan",
+        "name": "Vigneto",
+        "opening_hours": "Mo-Su 18:00-01:30",
+        "outdoor_seating": "no",
+        "phone": "+39 06 21710136",
+        "shop": "wine",
+        "start_date": "04/11/2015",
+        "website": "https://www.facebook.com/enotecavigneto/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5353097,
+          41.8870288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4699099856",
+      "properties": {
+        "@id": "node/4699099856",
+        "addr:housenumber": "273",
+        "addr:street": "Via Casilina",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5322186,
+          41.8836651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4699099862",
+      "properties": {
+        "@id": "node/4699099862",
+        "addr:housenumber": "110",
+        "addr:postcode": "00176",
+        "addr:street": "Via Attilio Mori",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "Garconniere 110",
+        "opening_hours": "Mo-Su 07:30-01:00",
+        "website": "https://www.facebook.com/Gar%C3%A7onni%C3%A8re-110-1771782476367175/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5310724,
+          41.88766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4699357683",
+      "properties": {
+        "@id": "node/4699357683",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "Bar 3m"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5386056,
+          41.8822162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4699357795",
+      "properties": {
+        "@id": "node/4699357795",
+        "addr:housenumber": "3",
+        "addr:street": "Via di San Barnaba",
+        "amenity": "pub",
+        "description": "Beershop/Osteria",
+        "internet_access": "wlan",
+        "name": "Hop Corner - birra bistrot",
+        "opening_hours": "Tu-Fr 09:00-23:45; Sa-Su 15:00-23:45; Mo 18:00-23:45",
+        "website": "http://www.hopcorner.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5391245,
+          41.8833758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4699640686",
+      "properties": {
+        "@id": "node/4699640686",
+        "addr:housenumber": "7/8",
+        "addr:street": "Largo di San Luca Evangelista",
+        "amenity": "cafe",
+        "description": "Enoteca Beer shop Aperitivi Tisaneria",
+        "internet_access": "wlan",
+        "name": "La Santa Sete",
+        "opening_hours": "From 10:30",
+        "shop": "wine",
+        "website": "https://www.facebook.com/EnotecaAnimaVini/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.537083,
+          41.8879483
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,360 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1,
+      "properties": {
+        "id": "node/1695938318",
+        "X.id": "node/1695938318",
+        "addr.city": "Roma",
+        "addr.housenumber": "43",
+        "addr.postcode": "00176",
+        "addr.street": "Via Giovanni De Agostini",
+        "amenity": "cafe",
+        "cuisine": "sandwich",
+        "description": "musica dischi caffe",
+        "internet_access": "wlan",
+        "name": "Yeah",
+        "opening_hours": "Mo-Su 07:30-02:00",
+        "phone": "+39 06 64801456",
+        "website": "https://www.yeahpigneto.com",
+        "cat": "Cafe/Bar",
+        "addr": "Via Giovanni De Agostini 43",
+        "popups": "<b><a href='https://www.yeahpigneto.com' target='_blank'  >Yeah</a></b><br/>musica dischi caffe<br/>Via Giovanni De Agostini 43<br/>Mo-Su 07:30-02:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.5302, 41.8865]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3,
+      "properties": {
+        "id": "node/1768569008",
+        "X.id": "node/1768569008",
+        "addr.housenumber": "68",
+        "addr.street": "Via Fanfulla da Lodi",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "Necci",
+        "opening_hours": "Mo-Su 08:00-02:00",
+        "phone": "+39 06 97601552",
+        "website": "http://www.necci1924.com/",
+        "operator": "Fanfulla S.r.l.",
+        "outdoor": "yes",
+        "outdoor_seating": "yes",
+        "ref.vatin": "IT09056241004",
+        "start_date": "1924",
+        "cat": "Bistrot/Fast-Food",
+        "addr": "Via Fanfulla da Lodi 68",
+        "popups": "<b><a href='http://www.necci1924.com/' target='_blank'  >Necci</a></b><br/>Via Fanfulla da Lodi 68<br/>Mo-Su 08:00-02:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.5302, 41.8891]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4,
+      "properties": {
+        "id": "node/1793395338",
+        "X.id": "node/1793395338",
+        "addr.city": "Roma",
+        "addr.housenumber": "4",
+        "addr.street": "Via Perugia",
+        "amenity": "library",
+        "internet_access": "wlan",
+        "name": "Lo Yeti",
+        "opening_hours": "Mo-Su 10:00-01:00",
+        "phone": "+39 06 7025633",
+        "website": "http://www.loyeti.org/",
+        "addr.country": "IT",
+        "wheelchair": "yes",
+        "cat": "Cafe/Bar",
+        "addr": "Via Perugia 4",
+        "popups": "<b><a href='http://www.loyeti.org/' target='_blank'  >Lo Yeti</a></b><br/>Via Perugia 4<br/>Mo-Su 10:00-01:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.5252, 41.8899]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5,
+      "properties": {
+        "id": "node/2459494684",
+        "X.id": "node/2459494684",
+        "addr.housenumber": "106",
+        "addr.postcode": "00176",
+        "addr.street": "Via del Pigneto",
+        "amenity": "cafe",
+        "cuisine": "italian",
+        "internet_access": "wlan",
+        "name": "Bottiglieria Pigneto",
+        "opening_hours": "Mo-Su 08:00-01:30",
+        "website": "https://www.facebook.com/bottiglieria.pigneto/",
+        "outdoor": "yes",
+        "wheelchair": "yes",
+        "cat": "Cafe/Bar",
+        "addr": "Via del Pigneto 106",
+        "popups": "<b><a href='https://www.facebook.com/bottiglieria.pigneto/' target='_blank'  >Bottiglieria Pigneto</a></b><br/>Via del Pigneto 106<br/>Mo-Su 08:00-01:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.5299, 41.8879]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10,
+      "properties": {
+        "id": "node/4419393051",
+        "X.id": "node/4419393051",
+        "addr.city": "Roma",
+        "addr.housenumber": "172-174",
+        "addr.postcode": "00176",
+        "addr.street": "Via Gentile da Mogliano",
+        "amenity": "pub",
+        "description": "Wine/Beer/Coffee",
+        "internet_access": "wlan",
+        "name": "Caffe Sospeso",
+        "opening_hours": "Sa-Mo 15:00-01:00; tu-fr 11:00-01:00",
+        "phone": "+39 06 83760933",
+        "website": "https://www.facebook.com/Caff%C3%A8-Sospeso-430526853806720/",
+        "outdoor_seating": "no",
+        "addr.country": "IT",
+        "pub.type": "wine_bar",
+        "cat": "Cafe/Bar",
+        "addr": "Via Gentile da Mogliano 172-174",
+        "popups": "<b><a href='https://www.facebook.com/Caff%C3%A8-Sospeso-430526853806720/' target='_blank'  >Caffe Sospeso</a></b><br/>Wine/Beer/Coffee<br/>Via Gentile da Mogliano 172-174<br/>Sa-Mo 15:00-01:00; tu-fr 11:00-01:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.5339, 41.8887]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11,
+      "properties": {
+        "id": "node/4644258945",
+        "X.id": "node/4644258945",
+        "addr.city": "Roma",
+        "addr.housenumber": "16",
+        "addr.postcode": "00176",
+        "addr.street": "Via Ettore Giovenale",
+        "amenity": "pub",
+        "cuisine": "regional",
+        "internet_access": "wlan",
+        "name": "Zazie nel metro",
+        "opening_hours": "Mo-Su 08:00-02:00",
+        "website": "https://www.facebook.com/zazienelmetropigneto/",
+        "operator": "Zazie Soc.Coop arl",
+        "outdoor_seating": "no",
+        "ref.vatin": "IT13909521000",
+        "description.it": "Bistro/Latteria/Gastronomia",
+        "cat": "Cafe/Bar",
+        "addr": "Via Ettore Giovenale 16",
+        "popups": "<b><a href='https://www.facebook.com/zazienelmetropigneto/' target='_blank'  >Zazie nel metro</a></b><br/>Via Ettore Giovenale 16<br/>Mo-Su 08:00-02:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.5313, 41.8912]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15,
+      "properties": {
+        "id": "node/4659895861",
+        "X.id": "node/4659895861",
+        "addr.city": "Roma",
+        "addr.housenumber": "168",
+        "addr.street": "Via Prenestina",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "description": "Colazione/Pranzo/Aperitivo/Cena",
+        "internet_access": "wlan",
+        "name": "Gastro Cibo & Caffe",
+        "opening_hours": "Mo-Th 07:00-23:00; Fr 17:00-23:00; Sa 07:00-23:00; Su 17:00-23:00",
+        "phone": "+390686601380",
+        "website": "http://www.gastrociboecaffe.it/",
+        "outdoor_seating": "no",
+        "wheelchair": "no",
+        "cuisine_1": "international",
+        "cat": "Bistrot/Fast-Food",
+        "addr": "Via Prenestina 168",
+        "popups": "<b><a href='http://www.gastrociboecaffe.it/' target='_blank'  >Gastro Cibo & Caffe</a></b><br/>Colazione/Pranzo/Aperitivo/Cena<br/>Via Prenestina 168<br/>Mo-Th 07:00-23:00; Fr 17:00-23:00; Sa 07:00-23:00; Su 17:00-23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.5324, 41.8919]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19,
+      "properties": {
+        "id": "node/4659895872",
+        "X.id": "node/4659895872",
+        "addr.city": "Roma",
+        "addr.housenumber": "2",
+        "addr.street": "Via Pausania",
+        "amenity": "fast_food",
+        "cuisine": "sandwich",
+        "internet_access": "wlan",
+        "name": "Dar Ciriola",
+        "opening_hours": "Mo-Su 07:30-01:00",
+        "phone": "+39 06 21702636",
+        "website": "http://www.darciriola.it/",
+        "outdoor": "yes",
+        "outdoor_seating": "terrace",
+        "wheelchair": "yes",
+        "description.it": "Cirioleria",
+        "cat": "Bistrot/Fast-Food",
+        "addr": "Via Pausania 2",
+        "popups": "<b><a href='http://www.darciriola.it/' target='_blank'  >Dar Ciriola</a></b><br/>Via Pausania 2<br/>Mo-Su 07:30-01:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.5347, 41.8869]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20,
+      "properties": {
+        "id": "node/4660196074",
+        "X.id": "node/4660196074",
+        "addr.city": "Roma",
+        "addr.housenumber": "232",
+        "addr.street": "Via Prenestina",
+        "amenity": "cafe",
+        "cuisine": "international",
+        "description": "Lounge/Restaurant/Cafeteria",
+        "internet_access": "wlan",
+        "name": "Violetta Caffe & Cucina",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "website": "https://www.facebook.com/Violetta-caff%C3%A8-cucina-718317308266363/",
+        "outdoor_seating": "no",
+        "cat": "Cafe/Bar",
+        "addr": "Via Prenestina 232",
+        "popups": "<b><a href='https://www.facebook.com/Violetta-caff%C3%A8-cucina-718317308266363/' target='_blank'  >Violetta Caffe & Cucina</a></b><br/>Lounge/Restaurant/Cafeteria<br/>Via Prenestina 232<br/>Mo-Su 07:00-22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.5395, 41.8922]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21,
+      "properties": {
+        "id": "node/4660196075",
+        "X.id": "node/4660196075",
+        "addr.city": "Roma",
+        "addr.housenumber": "26/27",
+        "addr.postcode": "00176",
+        "addr.street": "Piazza dei Condottieri",
+        "amenity": "restaurant",
+        "cuisine": "international",
+        "internet_access": "wlan",
+        "name": "Vigneto",
+        "opening_hours": "Mo-Su 18:00-01:30",
+        "phone": "+39 06 21710136",
+        "website": "https://www.facebook.com/enotecavigneto/",
+        "outdoor_seating": "no",
+        "start_date": "04/11/2015",
+        "description.it": "Enoteca",
+        "shop": "wine",
+        "cat": "Wine-Bar",
+        "addr": "Piazza dei Condottieri 26/27",
+        "popups": "<b><a href='https://www.facebook.com/enotecavigneto/' target='_blank'  >Vigneto</a></b><br/>Piazza dei Condottieri 26/27<br/>Mo-Su 18:00-01:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.5353, 41.887]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 23,
+      "properties": {
+        "id": "node/4699099862",
+        "X.id": "node/4699099862",
+        "addr.housenumber": "110",
+        "addr.postcode": "00176",
+        "addr.street": "Via Attilio Mori",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "Garconniere 110",
+        "opening_hours": "Mo-Su 07:30-01:00",
+        "website": "https://www.facebook.com/Gar%C3%A7onni%C3%A8re-110-1771782476367175/",
+        "cat": "Cafe/Bar",
+        "addr": "Via Attilio Mori 110",
+        "popups": "<b><a href='https://www.facebook.com/Gar%C3%A7onni%C3%A8re-110-1771782476367175/' target='_blank'  >Garconniere 110</a></b><br/>Via Attilio Mori 110<br/>Mo-Su 07:30-01:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.5311, 41.8877]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25,
+      "properties": {
+        "id": "node/4699357795",
+        "X.id": "node/4699357795",
+        "addr.housenumber": "3",
+        "addr.street": "Via di San Barnaba",
+        "amenity": "pub",
+        "description": "Beershop/Osteria",
+        "internet_access": "wlan",
+        "name": "Hop Corner",
+        "opening_hours": "Tu-Fr 09:00-23:45; Sa-Su 15:00-23:45; Mo 18:00-23:45",
+        "website": "http://www.hopcorner.com/",
+        "cat": "Pub",
+        "addr": "Via di San Barnaba 3",
+        "popups": "<b><a href='http://www.hopcorner.com/' target='_blank'  >Hop Corner</a></b><br/>Beershop/Osteria<br/>Via di San Barnaba 3<br/>Tu-Fr 09:00-23:45; Sa-Su 15:00-23:45; Mo 18:00-23:45"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.5391, 41.8834]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 26,
+      "properties": {
+        "id": "node/4699640686",
+        "X.id": "node/4699640686",
+        "addr.housenumber": "7/8",
+        "addr.street": "Largo di San Luca Evangelista",
+        "amenity": "cafe",
+        "description": "Enoteca Beer shop Aperitivi Tisaneria",
+        "internet_access": "wlan",
+        "name": "La Santa Sete",
+        "opening_hours": "From 10:30",
+        "website": "https://www.facebook.com/EnotecaAnimaVini/",
+        "shop": "wine",
+        "cat": "Wine-Bar",
+        "addr": "Largo di San Luca Evangelista 7/8",
+        "popups": "<b><a href='https://www.facebook.com/EnotecaAnimaVini/' target='_blank'  >La Santa Sete</a></b><br/>Enoteca Beer shop Aperitivi Tisaneria<br/>Largo di San Luca Evangelista 7/8<br/>From 10:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.5371, 41.8879]
+      }
+    }
+  ]
+}

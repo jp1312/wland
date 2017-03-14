@@ -1,0 +1,51 @@
+<script src='https://api.mapbox.com/mapbox-gl-js/v0.31.0/mapbox-gl.js'></script>
+<link href='https://api.mapbox.com/mapbox-gl-js/v0.31.0/mapbox-gl.css' rel='stylesheet' />
+<link href='barwifi_files/style.css' rel='stylesheet' />
+
+<div id='map'></div>
+<div class='map-overlay' id='features'><h2>Gli esercizi pubblici con Wi-Fi a Torpignattara</h2><div id='pd'><p>Clicca sui punti!</p></div></div>
+<div class='map-overlay' id='legend'></div>
+
+<script>
+
+// setup map using MapBox style
+mapboxgl.accessToken = 'pk.eyJ1IjoianByaW1hdiIsImEiOiJjaXpxcHBwNWwwMWtoMzhvMHN4d2V5MTAxIn0.Zk05plgDtHAcVgXmlsf5xw';
+
+var map = new mapboxgl.Map({
+  container: 'map', // container id
+  style: 'mapbox://styles/jprimav/cizqy3m1y002l2rkwsr96dkyw'
+});
+
+
+// When a click event occurs near a place, open a popup at the location of
+// the feature, with description HTML from its properties.
+map.on('click', function (e) {
+    var features = map.queryRenderedFeatures(e.point, { layers: ['bar'] });
+
+    if (!features.length) {
+        return;
+    }
+
+    var feature = features[0];
+
+    // Populate the popup and set its coordinates
+    // based on the feature found.
+    var popup = new mapboxgl.Popup()
+        .setLngLat(feature.geometry.coordinates)
+        .setHTML(feature.properties.popups)
+        .addTo(map);
+});
+
+
+// Use the same approach as above to indicate that the symbols are clickable
+// by changing the cursor style to 'pointer'.
+map.on('mousemove', function (e) {
+    var features = map.queryRenderedFeatures(e.point, { layers: ['bar'] });
+    map.getCanvas().style.cursor = (features.length) ? 'pointer' : '';
+});
+
+
+
+map.getCanvas().style.cursor = 'default'; 
+map.fitBounds([[12.50905, 41.877757], [12.551193, 41.903235]]);
+</script>
