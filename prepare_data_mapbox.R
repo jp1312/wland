@@ -16,7 +16,7 @@ library(htmlwidgets)
 
 
 ## --- read data
-load("C:/Users/pc/Documents/slowdata/post/wland/git/data/cafesPigneto.RData")
+load("C:/Users/pc/Documents/slowdata/post/wland/git/data/cafes_pigneto.RData")
 
 
 ## --- Prepare popups
